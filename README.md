@@ -1,4 +1,4 @@
-![](https://i.imgur.com/mykt0qn.png)<html>
+
     <table style="margin-left: 0; margin-right: 0;">
         <tr>
             <td>
