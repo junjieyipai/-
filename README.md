@@ -1,5 +1,5 @@
-
-    <table style="margin-left: 0; margin-right: 0;">
+<table>
+<table style="margin-left: 0; margin-right: 0;">
         <tr>
             <td>
                 <div align=center><img src="3.jpg" width="200" height="260" />
